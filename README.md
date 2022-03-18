@@ -1,3 +1,6 @@
+# Wordle
+Simple wordle game where the user has to guess the 5 letter word in a max of 5 attempts
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
